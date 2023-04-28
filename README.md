@@ -1,4 +1,4 @@
-# BlackByteNT_HashResolver
+# BlackByteNT Hash Resolver
 IDA Python Script to resolve APIs in BlackByteNT samples
 
 Tested on sample SHA256: 02a0a39dbe0dcb5600f4179aeab457bb86965699e45d1d154082b02139dc701d
